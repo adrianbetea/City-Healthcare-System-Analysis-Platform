@@ -1,0 +1,927 @@
+Clustering coefficients for Cluj-Napoca, Cluj
+Hospital node 3190805512 has clustering coefficient 0.0000
+Hospital node 3190805513 has clustering coefficient 0.0000
+Hospital node 8369026582 has clustering coefficient 0.0000
+Hospital node 289643548 has clustering coefficient 0.0000
+Hospital node 268216350 has clustering coefficient 0.1667
+Hospital node 353771051 has clustering coefficient 0.0000
+Hospital node 278394924 has clustering coefficient 0.0000
+Hospital node 1974805048 has clustering coefficient 0.0000
+Hospital node 3494404666 has clustering coefficient 0.0000
+Hospital node 353955898 has clustering coefficient 0.0000
+Hospital node 322100796 has clustering coefficient 0.0000
+Hospital node 353965626 has clustering coefficient 0.0000
+Hospital node 258978880 has clustering coefficient 0.0000
+Hospital node 353441860 has clustering coefficient 0.0667
+Hospital node 1861880904 has clustering coefficient 0.0000
+Hospital node 163182153 has clustering coefficient 0.0000
+Hospital node 353766984 has clustering coefficient 0.0000
+Hospital node 262941773 has clustering coefficient 0.0000
+Hospital node 57770062 has clustering coefficient 0.0000
+Hospital node 353414227 has clustering coefficient 0.0500
+Hospital node 6512269913 has clustering coefficient 0.0000
+Hospital node 3212116067 has clustering coefficient 0.0000
+Hospital node 277715043 has clustering coefficient 0.0000
+Hospital node 7722239595 has clustering coefficient 0.0000
+Hospital node 553082993 has clustering coefficient 0.0000
+Hospital node 289741427 has clustering coefficient 0.0000
+Hospital node 353952896 has clustering coefficient 0.0000
+Hospital node 4743845005 has clustering coefficient 0.0667
+Hospital node 59015832 has clustering coefficient 0.0000
+Hospital node 2817551005 has clustering coefficient 0.0000
+Hospital node 6504640161 has clustering coefficient 0.0000
+Hospital node 353796772 has clustering coefficient 0.0000
+Hospital node 2123754167 has clustering coefficient 0.0000
+Hospital node 287215800 has clustering coefficient 0.0000
+Hospital node 291934396 has clustering coefficient 0.0000
+Hospital node 58990786 has clustering coefficient 0.0000
+Hospital node 277102276 has clustering coefficient 0.0000
+Hospital node 354678988 has clustering coefficient 0.0000
+Hospital node 90478286 has clustering coefficient 0.0000
+Hospital node 291935440 has clustering coefficient 0.0667
+Hospital node 3811644116 has clustering coefficient 0.0000
+Hospital node 1805096672 has clustering coefficient 0.0000
+Hospital node 4714604770 has clustering coefficient 0.0000
+Hospital node 59034851 has clustering coefficient 0.0000
+Hospital node 59665642 has clustering coefficient 0.0000
+Hospital node 258981104 has clustering coefficient 0.0000
+Hospital node 353768178 has clustering coefficient 0.0000
+Hospital node 1244681486 has clustering coefficient 0.0000
+Hospital node 586303268 has clustering coefficient 0.0000
+Hospital node 291935526 has clustering coefficient 0.0667
+Hospital node 353809702 has clustering coefficient 0.0000
+Hospital node 2804493608 has clustering coefficient 0.0000
+Hospital node 353792309 has clustering coefficient 0.0000
+Hospital node 289739576 has clustering coefficient 0.0000
+Hospital node 353964857 has clustering coefficient 0.0000
+Hospital node 59020108 has clustering coefficient 0.0000
+Hospital node 2411030352 has clustering coefficient 0.0000
+Hospital node 5599440732 has clustering coefficient 0.0000
+Hospital node 266116964 has clustering coefficient 0.0000
+Hospital node 258980708 has clustering coefficient 0.0000
+Hospital node 353398117 has clustering coefficient 0.0000
+Hospital node 2741905767 has clustering coefficient 0.0000
+Hospital node 292113271 has clustering coefficient 0.0000
+Hospital node 5124484983 has clustering coefficient 0.0000
+Hospital node 259150717 has clustering coefficient 0.0000
+Hospital node 3450904448 has clustering coefficient 0.0000
+Hospital node 325049218 has clustering coefficient 0.0000
+Hospital node 530123139 has clustering coefficient 0.1000
+Hospital node 280408474 has clustering coefficient 0.0000
+Hospital node 3154387369 has clustering coefficient 0.0000
+Hospital node 353964468 has clustering coefficient 0.0000
+Hospital node 4761468852 has clustering coefficient 0.0000
+Hospital node 353764284 has clustering coefficient 0.0000
+Hospital node 292024254 has clustering coefficient 0.0000
+Hospital node 122945988 has clustering coefficient 0.0000
+Hospital node 5167089094 has clustering coefficient 0.0000
+Hospital node 5752602566 has clustering coefficient 0.0833
+Hospital node 280408519 has clustering coefficient 0.0000
+Hospital node 5608544719 has clustering coefficient 0.0000
+Hospital node 122945999 has clustering coefficient 0.0000
+Hospital node 353766883 has clustering coefficient 0.0000
+Hospital node 2624813542 has clustering coefficient 0.0000
+Hospital node 2826952692 has clustering coefficient 0.0667
+Hospital node 1449568248 has clustering coefficient 0.0000
+Hospital node 322100730 has clustering coefficient 0.0000
+Hospital node 2397663228 has clustering coefficient 0.0000
+Hospital node 258984959 has clustering coefficient 0.0000
+
+Clustering coefficients for Iasi, Iasi
+Hospital node 247358599 has clustering coefficient 0.0000
+Hospital node 247358600 has clustering coefficient 0.0000
+Hospital node 248574472 has clustering coefficient 0.0000
+Hospital node 247410061 has clustering coefficient 0.0000
+Hospital node 247312910 has clustering coefficient 0.0000
+Hospital node 615028239 has clustering coefficient 0.0000
+Hospital node 6429374609 has clustering coefficient 0.0667
+Hospital node 253125651 has clustering coefficient 0.0000
+Hospital node 247409811 has clustering coefficient 0.0000
+Hospital node 247414675 has clustering coefficient 0.0000
+Hospital node 248571162 has clustering coefficient 0.0000
+Hospital node 2204427166 has clustering coefficient 0.0000
+Hospital node 247893795 has clustering coefficient 0.0000
+Hospital node 247303080 has clustering coefficient 0.1333
+Hospital node 248564395 has clustering coefficient 0.0000
+Hospital node 247476525 has clustering coefficient 0.0000
+Hospital node 640059826 has clustering coefficient 0.0000
+Hospital node 10072741179 has clustering coefficient 0.0000
+Hospital node 247826366 has clustering coefficient 0.0000
+Hospital node 247826368 has clustering coefficient 0.0000
+Hospital node 2225246790 has clustering coefficient 0.0000
+Hospital node 1771688778 has clustering coefficient 0.0000
+Hospital node 248509394 has clustering coefficient 0.0000
+Hospital node 248577107 has clustering coefficient 0.1667
+Hospital node 6459235538 has clustering coefficient 0.0500
+Hospital node 2178209365 has clustering coefficient 0.0000
+Hospital node 1346602849 has clustering coefficient 0.0000
+Hospital node 247409762 has clustering coefficient 0.0000
+Hospital node 247824871 has clustering coefficient 0.0000
+Hospital node 247303402 has clustering coefficient 0.0000
+Hospital node 2176166636 has clustering coefficient 0.0000
+Hospital node 260779382 has clustering coefficient 0.0000
+Hospital node 248612086 has clustering coefficient 0.0000
+
+Clustering coefficients for Constanta, Constanta
+Hospital node 109711617 has clustering coefficient 0.0000
+Hospital node 1159674883 has clustering coefficient 0.0357
+Hospital node 130070916 has clustering coefficient 0.0000
+Hospital node 9353508619 has clustering coefficient 0.0000
+Hospital node 1226411277 has clustering coefficient 0.0000
+Hospital node 874260882 has clustering coefficient 0.0000
+Hospital node 3001115795 has clustering coefficient 0.0500
+Hospital node 100857877 has clustering coefficient 0.0000
+Hospital node 2292297497 has clustering coefficient 0.0667
+Hospital node 6200785186 has clustering coefficient 0.0000
+Hospital node 3218769827 has clustering coefficient 0.0000
+Hospital node 8273877540 has clustering coefficient 0.0000
+Hospital node 344873764 has clustering coefficient 0.0000
+Hospital node 10824131496 has clustering coefficient 0.0000
+Hospital node 144134825 has clustering coefficient 0.0000
+Hospital node 344877225 has clustering coefficient 0.0000
+Hospital node 148430120 has clustering coefficient 0.0000
+Hospital node 148581292 has clustering coefficient 0.0000
+Hospital node 148508457 has clustering coefficient 0.0000
+Hospital node 2292297514 has clustering coefficient 0.0667
+Hospital node 3813604143 has clustering coefficient 0.0000
+Hospital node 2467753775 has clustering coefficient 0.0000
+Hospital node 148364976 has clustering coefficient 0.0000
+Hospital node 267331507 has clustering coefficient 0.0000
+Hospital node 3811725876 has clustering coefficient 0.0000
+Hospital node 4775120565 has clustering coefficient 0.0000
+Hospital node 3858852150 has clustering coefficient 0.0000
+Hospital node 317937847 has clustering coefficient 0.0000
+Hospital node 109843768 has clustering coefficient 0.0000
+Hospital node 267331769 has clustering coefficient 0.0000
+Hospital node 3858852151 has clustering coefficient 0.0000
+Hospital node 1231177531 has clustering coefficient 0.0000
+Hospital node 2292655806 has clustering coefficient 0.0000
+Hospital node 10169151684 has clustering coefficient 0.0500
+Hospital node 3790095302 has clustering coefficient 0.0000
+Hospital node 2171810760 has clustering coefficient 0.0000
+Hospital node 9019103434 has clustering coefficient 0.0000
+Hospital node 3483473994 has clustering coefficient 0.0000
+Hospital node 2057857996 has clustering coefficient 0.0000
+Hospital node 103921867 has clustering coefficient 0.0000
+Hospital node 2057857998 has clustering coefficient 0.0000
+Hospital node 129654608 has clustering coefficient 0.0000
+Hospital node 2354945617 has clustering coefficient 0.0000
+Hospital node 344873682 has clustering coefficient 0.0000
+Hospital node 1234669011 has clustering coefficient 0.0000
+Hospital node 317934164 has clustering coefficient 0.0000
+Hospital node 1210169685 has clustering coefficient 0.0000
+Hospital node 1239688406 has clustering coefficient 0.0000
+Hospital node 148694101 has clustering coefficient 0.0000
+Hospital node 9449781713 has clustering coefficient 0.0000
+Hospital node 1739191385 has clustering coefficient 0.0000
+Hospital node 148431321 has clustering coefficient 0.0000
+Hospital node 144139099 has clustering coefficient 0.0000
+Hospital node 1184514271 has clustering coefficient 0.0000
+Hospital node 1159674849 has clustering coefficient 0.0000
+Hospital node 9559003363 has clustering coefficient 0.0000
+Hospital node 1836867556 has clustering coefficient 0.0000
+Hospital node 148382820 has clustering coefficient 0.0000
+Hospital node 597227881 has clustering coefficient 0.0000
+Hospital node 1837454444 has clustering coefficient 0.0000
+Hospital node 3790752239 has clustering coefficient 0.0000
+Hospital node 9498805619 has clustering coefficient 0.0000
+Hospital node 2272067572 has clustering coefficient 0.0000
+Hospital node 267332725 has clustering coefficient 0.0000
+Hospital node 3864668534 has clustering coefficient 0.0000
+Hospital node 9418075512 has clustering coefficient 0.0000
+Hospital node 1822744570 has clustering coefficient 0.0000
+Hospital node 5707187835 has clustering coefficient 0.0000
+Hospital node 9544819199 has clustering coefficient 0.0000
+
+Clustering coefficients for Timisoara, Timis
+Hospital node 277706882 has clustering coefficient 0.0000
+Hospital node 469168008 has clustering coefficient 0.0000
+Hospital node 9734714872 has clustering coefficient 0.0000
+Hospital node 3107939339 has clustering coefficient 0.1667
+Hospital node 357962381 has clustering coefficient 0.0000
+Hospital node 1109436944 has clustering coefficient 0.0000
+Hospital node 256907665 has clustering coefficient 0.0000
+Hospital node 1983126161 has clustering coefficient 0.0000
+Hospital node 2622060051 has clustering coefficient 0.0333
+Hospital node 1976531092 has clustering coefficient 0.1667
+Hospital node 264607895 has clustering coefficient 0.0000
+Hospital node 2398108567 has clustering coefficient 0.0000
+Hospital node 264512409 has clustering coefficient 0.0333
+Hospital node 2046008601 has clustering coefficient 0.0000
+Hospital node 29119259 has clustering coefficient 0.0000
+Hospital node 29119260 has clustering coefficient 0.0000
+Hospital node 2476958621 has clustering coefficient 0.0000
+Hospital node 264631582 has clustering coefficient 0.0000
+Hospital node 2263453471 has clustering coefficient 0.0000
+Hospital node 2057449888 has clustering coefficient 0.0000
+Hospital node 278448795 has clustering coefficient 0.0000
+Hospital node 2021381409 has clustering coefficient 0.0000
+Hospital node 2057449765 has clustering coefficient 0.0000
+Hospital node 263705384 has clustering coefficient 0.0000
+Hospital node 2076029226 has clustering coefficient 0.0000
+Hospital node 4268843435 has clustering coefficient 0.0000
+Hospital node 2455846059 has clustering coefficient 0.0833
+Hospital node 16576174 has clustering coefficient 0.0000
+Hospital node 263149235 has clustering coefficient 0.0000
+Hospital node 263149237 has clustering coefficient 0.0000
+Hospital node 3041936184 has clustering coefficient 0.0000
+Hospital node 267468985 has clustering coefficient 0.0000
+Hospital node 3509145659 has clustering coefficient 0.0000
+Hospital node 2064007997 has clustering coefficient 0.0000
+Hospital node 2300246973 has clustering coefficient 0.0000
+Hospital node 1041156033 has clustering coefficient 0.0000
+Hospital node 1942427459 has clustering coefficient 0.0000
+Hospital node 1978199620 has clustering coefficient 0.0000
+Hospital node 25754950 has clustering coefficient 0.0000
+Hospital node 335755464 has clustering coefficient 0.0000
+Hospital node 26650827 has clustering coefficient 0.0000
+Hospital node 1855952843 has clustering coefficient 0.0000
+Hospital node 2072127821 has clustering coefficient 0.0000
+Hospital node 264607182 has clustering coefficient 0.0000
+Hospital node 2267824975 has clustering coefficient 0.0000
+Hospital node 1984965584 has clustering coefficient 0.0000
+Hospital node 10616225870 has clustering coefficient 0.0000
+Hospital node 291195729 has clustering coefficient 0.0000
+Hospital node 1976274900 has clustering coefficient 0.0000
+Hospital node 10045024469 has clustering coefficient 0.0000
+Hospital node 1978200021 has clustering coefficient 0.0000
+Hospital node 2122159446 has clustering coefficient 0.0000
+Hospital node 21515992 has clustering coefficient 0.0000
+Hospital node 25530073 has clustering coefficient 0.1667
+Hospital node 1978609373 has clustering coefficient 0.0000
+Hospital node 4579503712 has clustering coefficient 0.1667
+Hospital node 2051904865 has clustering coefficient 0.0000
+Hospital node 270465633 has clustering coefficient 0.0000
+Hospital node 262639843 has clustering coefficient 0.0000
+Hospital node 264667619 has clustering coefficient 0.0000
+Hospital node 262638560 has clustering coefficient 0.0000
+Hospital node 2178593126 has clustering coefficient 0.0000
+Hospital node 267644646 has clustering coefficient 0.0000
+Hospital node 265072738 has clustering coefficient 0.0000
+Hospital node 1984971626 has clustering coefficient 0.0000
+Hospital node 5457399021 has clustering coefficient 0.0000
+Hospital node 3581040749 has clustering coefficient 0.0500
+Hospital node 2051836144 has clustering coefficient 0.1667
+Hospital node 4879949176 has clustering coefficient 0.0000
+Hospital node 258825723 has clustering coefficient 0.0000
+Hospital node 2070700285 has clustering coefficient 0.0000
+Hospital node 2050570110 has clustering coefficient 0.0000
+Hospital node 11385684735 has clustering coefficient 0.0000
+
+Clustering coefficients for Brasov, Brasov
+Hospital node 273530497 has clustering coefficient 0.0000
+Hospital node 293743112 has clustering coefficient 0.0000
+Hospital node 266814600 has clustering coefficient 0.0000
+Hospital node 2504850446 has clustering coefficient 0.1667
+Hospital node 289787022 has clustering coefficient 0.0000
+Hospital node 272431253 has clustering coefficient 0.0000
+Hospital node 289877653 has clustering coefficient 0.0000
+Hospital node 267265947 has clustering coefficient 0.0000
+Hospital node 256569373 has clustering coefficient 0.0000
+Hospital node 273500447 has clustering coefficient 0.0000
+Hospital node 259438496 has clustering coefficient 0.0000
+Hospital node 264987553 has clustering coefficient 0.0000
+Hospital node 3634685089 has clustering coefficient 0.0000
+Hospital node 2271375779 has clustering coefficient 0.0000
+Hospital node 252948260 has clustering coefficient 0.0000
+Hospital node 252460709 has clustering coefficient 0.0000
+Hospital node 256141095 has clustering coefficient 0.0000
+Hospital node 304245166 has clustering coefficient 0.0000
+Hospital node 355992756 has clustering coefficient 0.0000
+Hospital node 262835125 has clustering coefficient 0.0000
+Hospital node 2269764021 has clustering coefficient 0.0000
+Hospital node 262132792 has clustering coefficient 0.0000
+Hospital node 267145916 has clustering coefficient 0.0000
+Hospital node 289773245 has clustering coefficient 0.0000
+Hospital node 306572482 has clustering coefficient 0.0000
+Hospital node 11074568258 has clustering coefficient 0.0000
+Hospital node 1118358085 has clustering coefficient 0.0667
+Hospital node 285721289 has clustering coefficient 0.0000
+Hospital node 254091978 has clustering coefficient 0.0000
+Hospital node 356017483 has clustering coefficient 0.0000
+Hospital node 267056851 has clustering coefficient 0.0000
+Hospital node 2269773664 has clustering coefficient 0.0000
+Hospital node 252728931 has clustering coefficient 0.0000
+Hospital node 255733349 has clustering coefficient 0.0000
+Hospital node 255879912 has clustering coefficient 0.0667
+Hospital node 2287013226 has clustering coefficient 0.0000
+Hospital node 253075182 has clustering coefficient 0.0000
+Hospital node 2687114351 has clustering coefficient 0.0000
+Hospital node 251168117 has clustering coefficient 0.0357
+Hospital node 259171959 has clustering coefficient 0.0000
+Hospital node 264861438 has clustering coefficient 0.0000
+
+Clustering coefficients for Craiova, Dolj
+Hospital node 623481985 has clustering coefficient 0.0000
+Hospital node 876093697 has clustering coefficient 0.0000
+Hospital node 2616513027 has clustering coefficient 0.0000
+Hospital node 2247066372 has clustering coefficient 0.0000
+Hospital node 2327804677 has clustering coefficient 0.0000
+Hospital node 1862025479 has clustering coefficient 0.0000
+Hospital node 2567786759 has clustering coefficient 0.0000
+Hospital node 1906062348 has clustering coefficient 0.0000
+Hospital node 626028047 has clustering coefficient 0.0000
+Hospital node 311300623 has clustering coefficient 0.0000
+Hospital node 308931345 has clustering coefficient 0.0000
+Hospital node 2352641553 has clustering coefficient 0.0000
+Hospital node 623482235 has clustering coefficient 0.0000
+Hospital node 317587861 has clustering coefficient 0.0000
+Hospital node 2333515669 has clustering coefficient 0.0000
+Hospital node 6306804127 has clustering coefficient 0.0000
+Hospital node 317802015 has clustering coefficient 0.0000
+Hospital node 317588132 has clustering coefficient 0.0000
+Hospital node 1642379436 has clustering coefficient 0.0000
+Hospital node 6465458226 has clustering coefficient 0.0000
+Hospital node 317589299 has clustering coefficient 0.0000
+Hospital node 2963960374 has clustering coefficient 0.0000
+Hospital node 1906095415 has clustering coefficient 0.0000
+Hospital node 3545342521 has clustering coefficient 0.0000
+Hospital node 1906103997 has clustering coefficient 0.0000
+Hospital node 3517408190 has clustering coefficient 0.0000
+Hospital node 2302150462 has clustering coefficient 0.0000
+Hospital node 2331191616 has clustering coefficient 0.0000
+Hospital node 623904324 has clustering coefficient 0.0000
+Hospital node 634145734 has clustering coefficient 0.0000
+Hospital node 2078052167 has clustering coefficient 0.0000
+Hospital node 1906095436 has clustering coefficient 0.0000
+Hospital node 2247649742 has clustering coefficient 0.0000
+Hospital node 317644240 has clustering coefficient 0.0000
+Hospital node 2247824853 has clustering coefficient 0.0000
+Hospital node 1906766678 has clustering coefficient 0.0000
+Hospital node 2302566358 has clustering coefficient 0.0000
+Hospital node 317645146 has clustering coefficient 0.0000
+Hospital node 1906095451 has clustering coefficient 0.0000
+Hospital node 4169439326 has clustering coefficient 0.0000
+Hospital node 2352767966 has clustering coefficient 0.0000
+Hospital node 1906084318 has clustering coefficient 0.0000
+Hospital node 1862025057 has clustering coefficient 0.0000
+Hospital node 2078038114 has clustering coefficient 0.0000
+Hospital node 2247946083 has clustering coefficient 0.0000
+Hospital node 2352759268 has clustering coefficient 0.0000
+Hospital node 1862025574 has clustering coefficient 0.0500
+Hospital node 329674983 has clustering coefficient 0.0000
+Hospital node 623589991 has clustering coefficient 0.1667
+Hospital node 2077821030 has clustering coefficient 0.0000
+Hospital node 318273261 has clustering coefficient 0.0000
+Hospital node 318107503 has clustering coefficient 0.0000
+Hospital node 2077821042 has clustering coefficient 0.1000
+Hospital node 317637496 has clustering coefficient 0.0000
+Hospital node 2247886840 has clustering coefficient 0.0000
+Hospital node 2331230585 has clustering coefficient 0.0000
+Hospital node 2781223931 has clustering coefficient 0.0000
+Hospital node 1862025340 has clustering coefficient 0.0000
+
+Clustering coefficients for Galati, Galati
+Hospital node 9939118466 has clustering coefficient 0.0000
+Hospital node 5143724678 has clustering coefficient 0.0000
+Hospital node 302216211 has clustering coefficient 0.0000
+Hospital node 97504404 has clustering coefficient 0.0000
+Hospital node 113815709 has clustering coefficient 0.0000
+Hospital node 98722594 has clustering coefficient 0.0000
+Hospital node 113779108 has clustering coefficient 0.1000
+Hospital node 113732263 has clustering coefficient 0.0000
+Hospital node 4226799786 has clustering coefficient 0.0000
+Hospital node 113457073 has clustering coefficient 0.0000
+Hospital node 100080178 has clustering coefficient 0.0000
+Hospital node 109944387 has clustering coefficient 0.0000
+Hospital node 567168334 has clustering coefficient 0.0000
+Hospital node 97458909 has clustering coefficient 0.0000
+Hospital node 99213151 has clustering coefficient 0.0000
+Hospital node 97521893 has clustering coefficient 0.0000
+Hospital node 105813990 has clustering coefficient 0.0000
+Hospital node 5573212904 has clustering coefficient 0.0000
+Hospital node 100075752 has clustering coefficient 0.0000
+Hospital node 104213993 has clustering coefficient 0.0000
+Hospital node 114950505 has clustering coefficient 0.0476
+Hospital node 253516136 has clustering coefficient 0.0000
+Hospital node 249784559 has clustering coefficient 0.0000
+Hospital node 99215734 has clustering coefficient 0.0000
+Hospital node 1932207610 has clustering coefficient 0.0000
+
+Clustering coefficients for Oradea, Bihor
+Hospital node 9114130280 has clustering coefficient 0.0000
+Hospital node 264258699 has clustering coefficient 0.0000
+Hospital node 2011414156 has clustering coefficient 0.0000
+Hospital node 2011414828 has clustering coefficient 0.0000
+Hospital node 6600756749 has clustering coefficient 0.0000
+Hospital node 7264271185 has clustering coefficient 0.0000
+Hospital node 3509067348 has clustering coefficient 0.0000
+Hospital node 500345718 has clustering coefficient 0.0000
+Hospital node 503675287 has clustering coefficient 0.0000
+Hospital node 10818918553 has clustering coefficient 0.0000
+Hospital node 10289221020 has clustering coefficient 0.0000
+Hospital node 5263425566 has clustering coefficient 0.0000
+Hospital node 2001837695 has clustering coefficient 0.0000
+
+Clustering coefficients for Ploiesti, Prahova
+Hospital node 142408960 has clustering coefficient 0.0000
+Hospital node 122042114 has clustering coefficient 0.0000
+Hospital node 1005353867 has clustering coefficient 0.0000
+Hospital node 121786763 has clustering coefficient 0.0000
+Hospital node 6558700429 has clustering coefficient 0.0000
+Hospital node 984752270 has clustering coefficient 0.0000
+Hospital node 490585230 has clustering coefficient 0.0000
+Hospital node 2217549836 has clustering coefficient 0.0000
+Hospital node 490586007 has clustering coefficient 0.0000
+Hospital node 1034612890 has clustering coefficient 0.0833
+Hospital node 1256618525 has clustering coefficient 0.0000
+Hospital node 121767199 has clustering coefficient 0.0000
+Hospital node 1078853412 has clustering coefficient 0.0000
+Hospital node 149032236 has clustering coefficient 0.0000
+Hospital node 142410158 has clustering coefficient 0.0000
+Hospital node 121738802 has clustering coefficient 0.0000
+Hospital node 130247989 has clustering coefficient 0.0000
+Hospital node 1292133175 has clustering coefficient 0.0000
+Hospital node 149045564 has clustering coefficient 0.0000
+Hospital node 124078143 has clustering coefficient 0.0000
+Hospital node 126469185 has clustering coefficient 0.0000
+Hospital node 150610754 has clustering coefficient 0.0000
+Hospital node 130246979 has clustering coefficient 0.0000
+Hospital node 6252506564 has clustering coefficient 0.0000
+Hospital node 130825157 has clustering coefficient 0.0000
+Hospital node 880429130 has clustering coefficient 0.3333
+Hospital node 130253004 has clustering coefficient 0.0000
+Hospital node 149171666 has clustering coefficient 0.0000
+Hospital node 368216149 has clustering coefficient 0.0000
+Hospital node 130811994 has clustering coefficient 0.0000
+Hospital node 9402759259 has clustering coefficient 0.0000
+Hospital node 1110525019 has clustering coefficient 0.0000
+Hospital node 2218436955 has clustering coefficient 0.0000
+Hospital node 121780831 has clustering coefficient 0.1000
+Hospital node 490588775 has clustering coefficient 0.0000
+Hospital node 8969002348 has clustering coefficient 0.0000
+Hospital node 116703087 has clustering coefficient 0.0000
+Hospital node 116703089 has clustering coefficient 0.0000
+Hospital node 149250548 has clustering coefficient 0.0000
+Hospital node 130817781 has clustering coefficient 0.0000
+Hospital node 149033846 has clustering coefficient 0.0000
+Hospital node 1023875830 has clustering coefficient 0.0500
+Hospital node 4045414140 has clustering coefficient 0.0000
+Hospital node 153427197 has clustering coefficient 0.0000
+
+Clustering coefficients for Braila, Braila
+Hospital node 530633761 has clustering coefficient 0.0000
+Hospital node 366561601 has clustering coefficient 0.0000
+Hospital node 529809029 has clustering coefficient 0.0000
+Hospital node 310355942 has clustering coefficient 0.0000
+Hospital node 9972106920 has clustering coefficient 0.0000
+Hospital node 367370728 has clustering coefficient 0.0000
+Hospital node 770245450 has clustering coefficient 0.0000
+Hospital node 367377101 has clustering coefficient 0.0357
+Hospital node 367690361 has clustering coefficient 0.0000
+Hospital node 366938394 has clustering coefficient 0.0000
+Hospital node 312749113 has clustering coefficient 0.0000
+
+Clustering coefficients for Arad, Arad
+Hospital node 264764929 has clustering coefficient 0.0000
+Hospital node 264764930 has clustering coefficient 0.0000
+Hospital node 271623299 has clustering coefficient 0.0000
+Hospital node 256952198 has clustering coefficient 0.0000
+Hospital node 8418769415 has clustering coefficient 0.0000
+Hospital node 264763270 has clustering coefficient 0.0000
+Hospital node 218500236 has clustering coefficient 0.0000
+Hospital node 155177229 has clustering coefficient 0.0000
+Hospital node 583912465 has clustering coefficient 0.0000
+Hospital node 158731537 has clustering coefficient 0.0000
+Hospital node 252229911 has clustering coefficient 0.0000
+Hospital node 253257629 has clustering coefficient 0.0000
+Hospital node 5196191517 has clustering coefficient 0.0000
+Hospital node 2478002848 has clustering coefficient 0.0000
+Hospital node 3086978595 has clustering coefficient 0.0000
+Hospital node 3138864166 has clustering coefficient 0.0000
+Hospital node 165063592 has clustering coefficient 0.0000
+Hospital node 5196156969 has clustering coefficient 0.0000
+Hospital node 8270949803 has clustering coefficient 0.0000
+Hospital node 3190588076 has clustering coefficient 0.0000
+Hospital node 6431472433 has clustering coefficient 0.1667
+Hospital node 3190588081 has clustering coefficient 0.0000
+Hospital node 264764340 has clustering coefficient 0.0000
+Hospital node 224120767 has clustering coefficient 0.0000
+Hospital node 258897221 has clustering coefficient 0.0000
+Hospital node 158730826 has clustering coefficient 0.0000
+Hospital node 2452460110 has clustering coefficient 0.0000
+Hospital node 173531600 has clustering coefficient 0.0000
+Hospital node 33616727 has clustering coefficient 0.0000
+Hospital node 252548573 has clustering coefficient 0.0000
+Hospital node 173608305 has clustering coefficient 0.0000
+Hospital node 155177212 has clustering coefficient 0.0000
+
+Clustering coefficients for Pitesti, Arges
+Hospital node 967339041 has clustering coefficient 0.0000
+Hospital node 362915169 has clustering coefficient 0.0000
+Hospital node 355969379 has clustering coefficient 0.0000
+Hospital node 410228837 has clustering coefficient 0.0000
+Hospital node 872940518 has clustering coefficient 0.0000
+Hospital node 6233641414 has clustering coefficient 0.0500
+Hospital node 355983241 has clustering coefficient 0.0000
+Hospital node 261091915 has clustering coefficient 0.0000
+Hospital node 254851502 has clustering coefficient 0.0000
+Hospital node 261092466 has clustering coefficient 0.0000
+Hospital node 355967282 has clustering coefficient 0.0000
+Hospital node 255126294 has clustering coefficient 0.0667
+Hospital node 255891512 has clustering coefficient 0.0000
+Hospital node 967339033 has clustering coefficient 0.0000
+Hospital node 355987549 has clustering coefficient 0.0000
+Hospital node 355967166 has clustering coefficient 0.0000
+
+Clustering coefficients for Bacau, Bacau
+Hospital node 123309719 has clustering coefficient 0.0000
+Hospital node 1827318187 has clustering coefficient 0.0000
+Hospital node 4811201100 has clustering coefficient 0.0667
+Hospital node 1823775278 has clustering coefficient 0.0000
+Hospital node 6603727055 has clustering coefficient 0.0667
+Hospital node 6611092148 has clustering coefficient 0.0000
+Hospital node 5009417367 has clustering coefficient 0.0667
+Hospital node 1831741951 has clustering coefficient 0.0000
+
+Clustering coefficients for Sibiu, Sibiu
+Hospital node 5919495691 has clustering coefficient 0.0000
+Hospital node 3124618511 has clustering coefficient 0.0000
+Hospital node 415557114 has clustering coefficient 0.1667
+Hospital node 31236883 has clustering coefficient 0.0000
+Hospital node 316072469 has clustering coefficient 0.0000
+Hospital node 1225873309 has clustering coefficient 0.0000
+Hospital node 31017501 has clustering coefficient 0.0000
+Hospital node 3617275297 has clustering coefficient 0.0000
+Hospital node 11086796794 has clustering coefficient 0.0000
+Hospital node 2335111973 has clustering coefficient 0.0000
+Hospital node 31013671 has clustering coefficient 0.0000
+Hospital node 2583461684 has clustering coefficient 0.0000
+Hospital node 5871240509 has clustering coefficient 0.0000
+Hospital node 587634755 has clustering coefficient 0.0000
+Hospital node 2609086788 has clustering coefficient 0.0000
+Hospital node 316395332 has clustering coefficient 0.0000
+Hospital node 1879102022 has clustering coefficient 0.0000
+Hospital node 1879022660 has clustering coefficient 0.0000
+Hospital node 3117998286 has clustering coefficient 0.0000
+Hospital node 1029549140 has clustering coefficient 0.0000
+Hospital node 583785432 has clustering coefficient 0.0000
+Hospital node 1879115354 has clustering coefficient 0.0000
+Hospital node 4347360990 has clustering coefficient 0.0000
+Hospital node 585123935 has clustering coefficient 0.0000
+Hospital node 316565857 has clustering coefficient 0.0000
+Hospital node 11267540194 has clustering coefficient 0.0000
+Hospital node 2333100390 has clustering coefficient 0.0000
+Hospital node 583796844 has clustering coefficient 0.0000
+Hospital node 31015412 has clustering coefficient 0.0667
+Hospital node 1879115380 has clustering coefficient 0.0000
+Hospital node 316313463 has clustering coefficient 0.0000
+Hospital node 583796858 has clustering coefficient 0.0000
+
+Clustering coefficients for Targu-Mures, Mures
+Hospital node 257998344 has clustering coefficient 0.0000
+Hospital node 26293005 has clustering coefficient 0.0000
+Hospital node 249528593 has clustering coefficient 0.0000
+Hospital node 259069202 has clustering coefficient 0.0000
+Hospital node 299585555 has clustering coefficient 0.0667
+Hospital node 248495764 has clustering coefficient 0.0000
+Hospital node 248495767 has clustering coefficient 0.0000
+Hospital node 268372759 has clustering coefficient 0.0000
+Hospital node 31059479 has clustering coefficient 0.0000
+Hospital node 11347056668 has clustering coefficient 0.0000
+Hospital node 8785260445 has clustering coefficient 0.0000
+Hospital node 248743326 has clustering coefficient 0.0000
+Hospital node 248743327 has clustering coefficient 0.0000
+Hospital node 248205859 has clustering coefficient 0.0000
+Hospital node 1982837411 has clustering coefficient 0.0000
+Hospital node 248829994 has clustering coefficient 0.0000
+Hospital node 31060018 has clustering coefficient 0.0000
+Hospital node 506668730 has clustering coefficient 0.0000
+Hospital node 523258427 has clustering coefficient 0.0000
+Hospital node 257998268 has clustering coefficient 0.0000
+Hospital node 248584001 has clustering coefficient 0.0000
+Hospital node 266192836 has clustering coefficient 0.0000
+Hospital node 270180935 has clustering coefficient 0.0000
+Hospital node 269613127 has clustering coefficient 0.0000
+Hospital node 518131793 has clustering coefficient 0.0000
+Hospital node 1787989842 has clustering coefficient 0.0000
+Hospital node 249334867 has clustering coefficient 0.0000
+Hospital node 270353108 has clustering coefficient 0.0000
+Hospital node 248830036 has clustering coefficient 0.0000
+Hospital node 9922021860 has clustering coefficient 0.0000
+Hospital node 2484346344 has clustering coefficient 0.0000
+Hospital node 26003432 has clustering coefficient 0.0000
+Hospital node 1835869547 has clustering coefficient 0.0000
+Hospital node 266019948 has clustering coefficient 0.0000
+Hospital node 266019949 has clustering coefficient 0.0000
+Hospital node 514339312 has clustering coefficient 0.0000
+Hospital node 26003958 has clustering coefficient 0.0333
+Hospital node 1020658678 has clustering coefficient 0.0000
+Hospital node 1937029754 has clustering coefficient 0.0000
+Hospital node 248205823 has clustering coefficient 0.0000
+
+Clustering coefficients for Baia Mare, Maramures
+Hospital node 7177553319 has clustering coefficient 0.0333
+Hospital node 473063469 has clustering coefficient 0.0000
+Hospital node 559902934 has clustering coefficient 0.0000
+Hospital node 387195703 has clustering coefficient 0.0000
+Hospital node 473010875 has clustering coefficient 0.0000
+
+Clustering coefficients for Buzau, Buzau
+Hospital node 89743489 has clustering coefficient 0.0000
+Hospital node 3756250690 has clustering coefficient 0.0000
+Hospital node 1943835780 has clustering coefficient 0.0000
+Hospital node 496872412 has clustering coefficient 0.0000
+Hospital node 503696365 has clustering coefficient 0.0000
+Hospital node 310348334 has clustering coefficient 0.1667
+Hospital node 503782799 has clustering coefficient 0.0000
+Hospital node 497278127 has clustering coefficient 0.0000
+Hospital node 4896735124 has clustering coefficient 0.0000
+Hospital node 1920930676 has clustering coefficient 0.0000
+Hospital node 496357622 has clustering coefficient 0.0000
+Hospital node 494778775 has clustering coefficient 0.0333
+Hospital node 506077784 has clustering coefficient 0.0000
+Hospital node 392270038 has clustering coefficient 0.0000
+Hospital node 497060693 has clustering coefficient 0.0000
+Hospital node 497278165 has clustering coefficient 0.0000
+Hospital node 9523389148 has clustering coefficient 0.0000
+
+Clustering coefficients for Ramnicu Valcea, Valcea
+Hospital node 514399396 has clustering coefficient 0.0000
+Hospital node 513282085 has clustering coefficient 0.0000
+Hospital node 2221038885 has clustering coefficient 0.0000
+Hospital node 500053607 has clustering coefficient 0.0000
+Hospital node 2622149195 has clustering coefficient 0.0000
+Hospital node 513293101 has clustering coefficient 0.0000
+Hospital node 2336991407 has clustering coefficient 0.0000
+Hospital node 5185430418 has clustering coefficient 0.0000
+Hospital node 2219044887 has clustering coefficient 0.0000
+Hospital node 4076403834 has clustering coefficient 0.0000
+
+Clustering coefficients for Satu Mare, Satu Mare
+Hospital node 523419681 has clustering coefficient 0.0000
+Hospital node 9986208194 has clustering coefficient 0.0000
+Hospital node 10735582348 has clustering coefficient 0.0000
+Hospital node 7484645197 has clustering coefficient 0.0000
+Hospital node 503694573 has clustering coefficient 0.0000
+Hospital node 355619663 has clustering coefficient 0.0000
+Hospital node 355618224 has clustering coefficient 0.0000
+Hospital node 521902479 has clustering coefficient 0.0000
+Hospital node 355619323 has clustering coefficient 0.0000
+Hospital node 355619292 has clustering coefficient 0.0000
+
+Clustering coefficients for Botosani, Botosani
+Hospital node 601017763 has clustering coefficient 0.0000
+Hospital node 2800796357 has clustering coefficient 0.0000
+Hospital node 2888540488 has clustering coefficient 0.0000
+Hospital node 599335946 has clustering coefficient 0.0000
+Hospital node 9862033004 has clustering coefficient 0.0000
+Hospital node 4306994739 has clustering coefficient 0.0000
+Hospital node 3233867061 has clustering coefficient 0.0000
+Hospital node 391470935 has clustering coefficient 0.0000
+
+Clustering coefficients for Suceava, Suceava
+Hospital node 340209126 has clustering coefficient 0.0000
+Hospital node 281987144 has clustering coefficient 0.0000
+Hospital node 6252532108 has clustering coefficient 0.0000
+Hospital node 281972077 has clustering coefficient 0.0000
+Hospital node 281974169 has clustering coefficient 0.0000
+Hospital node 281977531 has clustering coefficient 0.0000
+
+Clustering coefficients for Resita, Caras-Severin
+Hospital node 6273297808 has clustering coefficient 0.0000
+Hospital node 2240984371 has clustering coefficient 0.0000
+Hospital node 11439449751 has clustering coefficient 0.0000
+
+Clustering coefficients for Drobeta-Turnu Severin, Mehedinti
+Hospital node 289869510 has clustering coefficient 0.0000
+Hospital node 508083336 has clustering coefficient 0.0000
+Hospital node 2082412008 has clustering coefficient 0.0000
+Hospital node 2082411979 has clustering coefficient 0.0000
+Hospital node 2276920781 has clustering coefficient 0.1000
+Hospital node 305010672 has clustering coefficient 0.0000
+Hospital node 976573939 has clustering coefficient 0.0000
+Hospital node 2724897052 has clustering coefficient 0.0000
+Hospital node 2082412023 has clustering coefficient 0.0000
+Hospital node 305428280 has clustering coefficient 0.0000
+Hospital node 2291603196 has clustering coefficient 0.0357
+Hospital node 10267860991 has clustering coefficient 0.0000
+
+Clustering coefficients for Piatra Neamt, Neamt
+Hospital node 2898995844 has clustering coefficient 0.0000
+Hospital node 1483543446 has clustering coefficient 0.0000
+Hospital node 534709654 has clustering coefficient 0.0000
+Hospital node 534709670 has clustering coefficient 0.0000
+Hospital node 534709290 has clustering coefficient 0.0000
+Hospital node 6728809265 has clustering coefficient 0.0000
+Hospital node 534709435 has clustering coefficient 0.0000
+Hospital node 534709691 has clustering coefficient 0.0000
+Hospital node 534709437 has clustering coefficient 0.1000
+Hospital node 3604595014 has clustering coefficient 0.0000
+Hospital node 2314352843 has clustering coefficient 0.0000
+Hospital node 535852109 has clustering coefficient 0.0000
+Hospital node 1813466964 has clustering coefficient 0.0000
+Hospital node 534709591 has clustering coefficient 0.0000
+Hospital node 534890200 has clustering coefficient 0.0000
+Hospital node 534709468 has clustering coefficient 0.0000
+Hospital node 534754014 has clustering coefficient 0.0000
+Hospital node 2234669417 has clustering coefficient 0.0000
+Hospital node 2279326067 has clustering coefficient 0.0000
+Hospital node 534709495 has clustering coefficient 0.0000
+
+Clustering coefficients for Bistrita, Bistrita-Nasaud
+Hospital node 5043899691 has clustering coefficient 0.0000
+Hospital node 6279802676 has clustering coefficient 0.0000
+
+Clustering coefficients for Targu Jiu, Gorj
+Hospital node 2563024006 has clustering coefficient 0.0000
+Hospital node 525187762 has clustering coefficient 0.0000
+Hospital node 291884626 has clustering coefficient 0.0000
+Hospital node 460624662 has clustering coefficient 0.0000
+Hospital node 258627195 has clustering coefficient 0.0000
+
+Clustering coefficients for Targoviste, Dambovita
+Hospital node 9981942657 has clustering coefficient 0.0000
+Hospital node 1026406626 has clustering coefficient 0.0667
+Hospital node 1026395464 has clustering coefficient 0.0000
+Hospital node 3310721980 has clustering coefficient 0.0000
+Hospital node 10804999660 has clustering coefficient 0.0000
+Hospital node 259429199 has clustering coefficient 0.0000
+Hospital node 1026402193 has clustering coefficient 0.0000
+Hospital node 9932467025 has clustering coefficient 0.0000
+Hospital node 2771791954 has clustering coefficient 0.0000
+Hospital node 4247367604 has clustering coefficient 0.0000
+Hospital node 9851324341 has clustering coefficient 0.0000
+Hospital node 11142162456 has clustering coefficient 0.0000
+Hospital node 2276056218 has clustering coefficient 0.0000
+Hospital node 355541468 has clustering coefficient 0.0000
+Hospital node 10040469756 has clustering coefficient 0.0000
+Hospital node 1249805341 has clustering coefficient 0.0000
+Hospital node 9778654335 has clustering coefficient 0.0000
+
+Clustering coefficients for Focsani, Vrancea
+Hospital node 3485820320 has clustering coefficient 0.0000
+Hospital node 536503075 has clustering coefficient 0.0000
+Hospital node 343398693 has clustering coefficient 0.0000
+Hospital node 599937101 has clustering coefficient 0.0000
+Hospital node 344970105 has clustering coefficient 0.0000
+Hospital node 6235049658 has clustering coefficient 0.0000
+Hospital node 598624765 has clustering coefficient 0.0000
+
+Clustering coefficients for Tulcea, Tulcea
+Hospital node 342000624 has clustering coefficient 0.0000
+Hospital node 3151575958 has clustering coefficient 0.0000
+
+Clustering coefficients for Alba Iulia, Alba
+Hospital node 260383152 has clustering coefficient 0.0000
+Hospital node 261066739 has clustering coefficient 0.0000
+Hospital node 2269918663 has clustering coefficient 0.0000
+
+Clustering coefficients for Slatina, Olt
+Hospital node 4830451109 has clustering coefficient 0.0000
+Hospital node 1243289798 has clustering coefficient 0.0000
+Hospital node 4463450439 has clustering coefficient 0.0000
+Hospital node 494153193 has clustering coefficient 0.0000
+Hospital node 1202210926 has clustering coefficient 0.0000
+Hospital node 5422066063 has clustering coefficient 0.0000
+Hospital node 6232892818 has clustering coefficient 0.0000
+Hospital node 1123908564 has clustering coefficient 0.0238
+Hospital node 618802200 has clustering coefficient 0.0000
+Hospital node 2290668569 has clustering coefficient 0.0000
+
+Clustering coefficients for Vaslui, Vaslui
+Hospital node 618976908 has clustering coefficient 0.0000
+Hospital node 618977124 has clustering coefficient 0.0000
+Hospital node 2622084397 has clustering coefficient 0.0000
+
+Clustering coefficients for Calarasi, Calarasi
+Hospital node 417771513 has clustering coefficient 0.0000
+Hospital node 405385075 has clustering coefficient 0.0000
+Hospital node 267316692 has clustering coefficient 0.0000
+Hospital node 534640517 has clustering coefficient 0.0000
+
+Clustering coefficients for Giurgiu, Giurgiu
+Hospital node 2922107827 has clustering coefficient 0.0000
+Hospital node 2290453012 has clustering coefficient 0.0000
+
+Clustering coefficients for Popesti-Leordeni, Ilfov
+Hospital node 2249861859 has clustering coefficient 0.0000
+Hospital node 6913548676 has clustering coefficient 0.0000
+Hospital node 5482240709 has clustering coefficient 0.0000
+Hospital node 268788274 has clustering coefficient 0.0000
+Hospital node 255536031 has clustering coefficient 0.0357
+
+Clustering coefficients for Deva, Hunedoara
+Hospital node 3970963328 has clustering coefficient 0.0000
+Hospital node 1025423560 has clustering coefficient 0.0000
+Hospital node 5645659401 has clustering coefficient 0.0667
+Hospital node 3809906984 has clustering coefficient 0.0000
+Hospital node 2283530422 has clustering coefficient 0.0000
+Hospital node 317305307 has clustering coefficient 0.1000
+
+Clustering coefficients for Barlad, Vaslui
+Hospital node 1490644553 has clustering coefficient 0.0000
+Hospital node 1799682189 has clustering coefficient 0.0000
+Hospital node 6057871605 has clustering coefficient 0.0000
+Hospital node 2188450810 has clustering coefficient 0.0000
+Hospital node 1798758239 has clustering coefficient 0.0000
+
+Clustering coefficients for Zalau, Salaj
+Hospital node 931473049 has clustering coefficient 0.0000
+Hospital node 1840383937 has clustering coefficient 0.0000
+
+Clustering coefficients for Hunedoara, Hunedoara
+Hospital node 9069533201 has clustering coefficient 0.0000
+Hospital node 9069533205 has clustering coefficient 0.1667
+
+Clustering coefficients for Floresti, Cluj
+Hospital node 6525255426 has clustering coefficient 0.0000
+Hospital node 2466693254 has clustering coefficient 0.0000
+Hospital node 1547652231 has clustering coefficient 0.0000
+Hospital node 1547648206 has clustering coefficient 0.0000
+Hospital node 931877145 has clustering coefficient 0.0000
+Hospital node 4400697375 has clustering coefficient 0.0000
+
+Clustering coefficients for Sfantu-Gheorghe, Covasna
+Hospital node 443026467 has clustering coefficient 0.0000
+Hospital node 262772805 has clustering coefficient 0.0000
+Hospital node 443025289 has clustering coefficient 0.0000
+Hospital node 443047862 has clustering coefficient 0.0000
+Hospital node 482082998 has clustering coefficient 0.0000
+
+Clustering coefficients for Roman, Neamt
+Hospital node 6651223793 has clustering coefficient 0.0000
+
+Clustering coefficients for Turda, Cluj
+Hospital node 3504440376 has clustering coefficient 0.0000
+
+Clustering coefficients for Miercurea-Ciuc, Harghita
+Hospital node 2961870787 has clustering coefficient 0.0000
+
+Clustering coefficients for Slobozia, Ialomita
+Hospital node 2605867540 has clustering coefficient 0.0000
+
+Clustering coefficients for Alexandria, Teleorman
+Hospital node 6250562054 has clustering coefficient 0.0000
+
+Clustering coefficients for Bragadiru, Ilfov
+Hospital node 3707651651 has clustering coefficient 0.0000
+
+Clustering coefficients for Medias, Sibiu
+Hospital node 9806824151 has clustering coefficient 0.0000
+
+Clustering coefficients for Lugoj, Timis
+Hospital node 4731073307 has clustering coefficient 0.0000
+
+Clustering coefficients for Medgidia, Constanta
+Hospital node 253147674 has clustering coefficient 0.0000
+
+Clustering coefficients for Navodari, Constanta
+Hospital node 2645093884 has clustering coefficient 0.0000
+
+Clustering coefficients for Onesti, Bacau
+Hospital node 1395239674 has clustering coefficient 0.0000
+
+Clustering coefficients for Pantelimon, Ilfov
+Hospital node 11305303743 has clustering coefficient 0.0667
+
+Clustering coefficients for Tecuci, Galati
+Hospital node 10594485597 has clustering coefficient 0.0000
+
+Clustering coefficients for Sighetu Marmatiei, Maramures
+Hospital node 4401222940 has clustering coefficient 0.0000
+
+Clustering coefficients for Mangalia, Constanta
+Hospital node 11021443903 has clustering coefficient 0.0000
+
+Clustering coefficients for Dej, Cluj
+Hospital node 1856117391 has clustering coefficient 0.0000
+
+Clustering coefficients for Odorheiu Secuiesc, Harghita
+Hospital node 2180783573 has clustering coefficient 0.0000
+
+Clustering coefficients for Petrosani, Hunedoara
+Hospital node 614120797 has clustering coefficient 0.0000
+
+Clustering coefficients for Sacele, Brasov
+Hospital node 2264342806 has clustering coefficient 0.0000
+
+Clustering coefficients for Pascani, Iasi
+Hospital node 1869548653 has clustering coefficient 0.0000
+
+Clustering coefficients for Ramnicu Sarat, Buzau
+Hospital node 2363348573 has clustering coefficient 0.0000
+
+Clustering coefficients for Reghin, Mures
+Hospital node 2308116337 has clustering coefficient 0.0000
+
+Clustering coefficients for Mioveni, Arges
+Hospital node 4181313125 has clustering coefficient 0.0000
+
+Clustering coefficients for Campina, Prahova
+Hospital node 2009970912 has clustering coefficient 0.0000
+
+Clustering coefficients for Borsa, Maramures
+Hospital node 6786988945 has clustering coefficient 0.0000
+
+Clustering coefficients for Campulung, Arges
+Hospital node 6582477797 has clustering coefficient 0.0000
+
+Clustering coefficients for Fetesti, Ialomita
+Hospital node 2261225664 has clustering coefficient 0.0000
+
+Clustering coefficients for Caracal, Olt
+Hospital node 5567634693 has clustering coefficient 0.0000
+
+Error processing Sebes, Alba: list index out of range
+Error processing Fagaras, Brasov: list index out of range

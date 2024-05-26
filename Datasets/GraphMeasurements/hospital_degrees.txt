@@ -1,0 +1,71 @@
+Average degree of hospital nodes for Cluj-Napoca, Cluj: 4.6322
+Average degree of hospital nodes for Iasi, Iasi: 4.8182
+Average degree of hospital nodes for Constanta, Constanta: 4.6377
+Average degree of hospital nodes for Timisoara, Timis: 4.5000
+Average degree of hospital nodes for Brasov, Brasov: 4.6098
+Average degree of hospital nodes for Craiova, Dolj: 4.2069
+Average degree of hospital nodes for Galati, Galati: 5.3600
+Average degree of hospital nodes for Oradea, Bihor: 3.8462
+Average degree of hospital nodes for Ploiesti, Prahova: 4.2667
+Average degree of hospital nodes for Braila, Braila: 6.2727
+Average degree of hospital nodes for Arad, Arad: 4.9375
+Average degree of hospital nodes for Pitesti, Arges: 4.5000
+Average degree of hospital nodes for Bacau, Bacau: 4.7500
+Average degree of hospital nodes for Sibiu, Sibiu: 4.0625
+Average degree of hospital nodes for Targu-Mures, Mures: 4.6000
+Average degree of hospital nodes for Baia Mare, Maramures: 4.0000
+Average degree of hospital nodes for Buzau, Buzau: 4.4706
+Average degree of hospital nodes for Ramnicu Valcea, Valcea: 5.0000
+Average degree of hospital nodes for Satu Mare, Satu Mare: 5.0000
+Average degree of hospital nodes for Botosani, Botosani: 4.5000
+Average degree of hospital nodes for Suceava, Suceava: 5.1667
+Average degree of hospital nodes for Resita, Caras-Severin: 4.0000
+Average degree of hospital nodes for Drobeta-Turnu Severin, Mehedinti: 5.5000
+Average degree of hospital nodes for Piatra Neamt, Neamt: 4.2500
+Average degree of hospital nodes for Bistrita, Bistrita-Nasaud: 4.5000
+Average degree of hospital nodes for Targu Jiu, Gorj: 4.4000
+Average degree of hospital nodes for Targoviste, Dambovita: 4.3529
+Average degree of hospital nodes for Focsani, Vrancea: 5.5714
+Average degree of hospital nodes for Tulcea, Tulcea: 7.0000
+Average degree of hospital nodes for Alba Iulia, Alba: 5.3333
+Average degree of hospital nodes for Slatina, Olt: 4.7000
+Average degree of hospital nodes for Vaslui, Vaslui: 5.6667
+Average degree of hospital nodes for Calarasi, Calarasi: 6.7500
+Average degree of hospital nodes for Giurgiu, Giurgiu: 3.0000
+Average degree of hospital nodes for Popesti-Leordeni, Ilfov: 4.8000
+Average degree of hospital nodes for Deva, Hunedoara: 4.6667
+Average degree of hospital nodes for Barlad, Vaslui: 5.4000
+Average degree of hospital nodes for Zalau, Salaj: 2.5000
+Average degree of hospital nodes for Hunedoara, Hunedoara: 3.0000
+Average degree of hospital nodes for Floresti, Cluj: 4.5000
+Average degree of hospital nodes for Sfantu-Gheorghe, Covasna: 5.2000
+Average degree of hospital nodes for Roman, Neamt: 4.0000
+Average degree of hospital nodes for Turda, Cluj: 4.0000
+Average degree of hospital nodes for Miercurea-Ciuc, Harghita: 2.0000
+Average degree of hospital nodes for Slobozia, Ialomita: 2.0000
+Average degree of hospital nodes for Alexandria, Teleorman: 3.0000
+Average degree of hospital nodes for Bragadiru, Ilfov: 2.0000
+Average degree of hospital nodes for Medias, Sibiu: 2.0000
+Average degree of hospital nodes for Lugoj, Timis: 2.0000
+Average degree of hospital nodes for Medgidia, Constanta: 2.0000
+Average degree of hospital nodes for Navodari, Constanta: 2.0000
+Average degree of hospital nodes for Onesti, Bacau: 2.0000
+Average degree of hospital nodes for Pantelimon, Ilfov: 6.0000
+Average degree of hospital nodes for Tecuci, Galati: 2.0000
+Average degree of hospital nodes for Sighetu Marmatiei, Maramures: 2.0000
+Average degree of hospital nodes for Mangalia, Constanta: 2.0000
+Average degree of hospital nodes for Dej, Cluj: 2.0000
+Average degree of hospital nodes for Odorheiu Secuiesc, Harghita: 2.0000
+Average degree of hospital nodes for Petrosani, Hunedoara: 2.0000
+Average degree of hospital nodes for Sacele, Brasov: 4.0000
+Average degree of hospital nodes for Pascani, Iasi: 2.0000
+Average degree of hospital nodes for Ramnicu Sarat, Buzau: 2.0000
+Average degree of hospital nodes for Reghin, Mures: 6.0000
+Average degree of hospital nodes for Mioveni, Arges: 2.0000
+Average degree of hospital nodes for Campina, Prahova: 4.0000
+Average degree of hospital nodes for Borsa, Maramures: 2.0000
+Average degree of hospital nodes for Campulung, Arges: 4.0000
+Average degree of hospital nodes for Fetesti, Ialomita: 2.0000
+Average degree of hospital nodes for Caracal, Olt: 2.0000
+Error processing Sebes, Alba: list index out of range
+Error processing Fagaras, Brasov: list index out of range

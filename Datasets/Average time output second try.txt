@@ -1,0 +1,210 @@
+Cluj-Napoca,Cluj - Number of hospitals/clinics: 48
+Cluj-Napoca,Cluj - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 48.0 seconds
+
+Iasi,Iasi - Number of hospitals/clinics: 35
+Iasi,Iasi - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 46.2 seconds
+
+Constanta,Constanta - Number of hospitals/clinics: 43
+Constanta,Constanta - Average shortest travel time from 200 streets to the closest hospital: 4 minutes 4.6 seconds
+
+Timisoara,Timis - Number of hospitals/clinics: 51
+Timisoara,Timis - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 12.5 seconds
+
+Error processing Brasov,Brasov: cannot access local variable 'response' where it is not associated with a value
+
+Craiova,Dolj - Number of hospitals/clinics: 30
+Craiova,Dolj - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 43.9 seconds
+
+Galati,Galati - Number of hospitals/clinics: 35
+Galati,Galati - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 41.9 seconds
+
+Oradea,Bihor - Number of hospitals/clinics: 18
+Oradea,Bihor - Average shortest travel time from 200 streets to the closest hospital: 11 minutes 12.2 seconds
+
+Ploiesti,Prahova - Number of hospitals/clinics: 38
+Ploiesti,Prahova - Average shortest travel time from 200 streets to the closest hospital: 4 minutes 27.9 seconds
+
+Braila,Braila - Number of hospitals/clinics: 21
+Braila,Braila - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 3.4 seconds
+
+Arad,Arad - Number of hospitals/clinics: 24
+Arad,Arad - Average shortest travel time from 200 streets to the closest hospital: 8 minutes 55.5 seconds
+
+Pitesti,Arges - Number of hospitals/clinics: 24
+Pitesti,Arges - Average shortest travel time from 200 streets to the closest hospital: 8 minutes 33.3 seconds
+
+Bacau,Bacau - Number of hospitals/clinics: 18
+Bacau,Bacau - Average shortest travel time from 200 streets to the closest hospital: 11 minutes 40.8 seconds
+
+Sibiu,Sibiu - Number of hospitals/clinics: 59
+Sibiu,Sibiu - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 12.7 seconds
+
+Targu-Mures,Mures - Number of hospitals/clinics: 39
+Targu-Mures,Mures - Average shortest travel time from 200 streets to the closest hospital: 4 minutes 12.1 seconds
+
+Baia Mare,Maramures - Number of hospitals/clinics: 17
+Baia Mare,Maramures - Average shortest travel time from 200 streets to the closest hospital: 13 minutes 48.1 seconds
+
+Buzau,Buzau - Number of hospitals/clinics: 25
+Buzau,Buzau - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 41.9 seconds
+
+Ramnicu Valcea,Valcea - Number of hospitals/clinics: 17
+Ramnicu Valcea,Valcea - Average shortest travel time from 200 streets to the closest hospital: 9 minutes 16.5 seconds
+
+Satu Mare,Satu Mare - Number of hospitals/clinics: 20
+Satu Mare,Satu Mare - Average shortest travel time from 200 streets to the closest hospital: 9 minutes 17.7 seconds
+
+Botosani,Botosani - Number of hospitals/clinics: 23
+Botosani,Botosani - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 49.9 seconds
+
+Suceava,Suceava - Number of hospitals/clinics: 14
+Suceava,Suceava - Average shortest travel time from 200 streets to the closest hospital: 13 minutes 27.7 seconds
+
+Resita,Caras-Severin - Number of hospitals/clinics: 12
+Resita,Caras-Severin - Average shortest travel time from 200 streets to the closest hospital: 8 minutes 52.7 seconds
+
+Drobeta-Turnu Severin,Mehedinti - Number of hospitals/clinics: 16
+Drobeta-Turnu Severin,Mehedinti - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 45.8 seconds
+
+Piatra Neamt,Neamt - Number of hospitals/clinics: 18
+Piatra Neamt,Neamt - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 45.6 seconds
+
+Bistrita,Bistrita-Nasaud - Number of hospitals/clinics: 8
+Bistrita,Bistrita-Nasaud - Average shortest travel time from 200 streets to the closest hospital: 14 minutes 8.9 seconds
+
+Targu Jiu,Gorj - Number of hospitals/clinics: 14
+Targu Jiu,Gorj - Average shortest travel time from 200 streets to the closest hospital: 10 minutes 52.1 seconds
+
+Targoviste,Dambovita - Number of hospitals/clinics: 17
+Targoviste,Dambovita - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 19.3 seconds
+
+Focsani,Vrancea - Number of hospitals/clinics: 22
+Focsani,Vrancea - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 51.0 seconds
+
+Tulcea,Tulcea - Number of hospitals/clinics: 12
+Tulcea,Tulcea - Average shortest travel time from 200 streets to the closest hospital: 10 minutes 26.5 seconds
+
+Alba Iulia,Alba - Number of hospitals/clinics: 13
+Alba Iulia,Alba - Average shortest travel time from 200 streets to the closest hospital: 12 minutes 40.0 seconds
+
+Slatina,Olt - Number of hospitals/clinics: 27
+Slatina,Olt - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 20.5 seconds
+
+Vaslui,Vaslui - Number of hospitals/clinics: 13
+Vaslui,Vaslui - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 31.8 seconds
+
+Calarasi,Calarasi - Number of hospitals/clinics: 13
+Calarasi,Calarasi - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 39.7 seconds
+
+Giurgiu,Giurgiu - Number of hospitals/clinics: 9
+Giurgiu,Giurgiu - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 52.1 seconds
+
+Popesti-Leordeni,Ilfov - Number of hospitals/clinics: 9
+Popesti-Leordeni,Ilfov - Average shortest travel time from 200 streets to the closest hospital: 9 minutes 12.1 seconds
+
+Deva,Hunedoara - Number of hospitals/clinics: 19
+Deva,Hunedoara - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 28.7 seconds
+
+Barlad,Vaslui - Number of hospitals/clinics: 9
+Barlad,Vaslui - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 37.2 seconds
+
+Zalau,Salaj - Number of hospitals/clinics: 13
+Zalau,Salaj - Average shortest travel time from 200 streets to the closest hospital: 10 minutes 59.4 seconds
+
+Hunedoara,Hunedoara - Number of hospitals/clinics: 10
+Hunedoara,Hunedoara - Average shortest travel time from 200 streets to the closest hospital: 11 minutes 52.4 seconds
+
+Floresti,Cluj - Number of hospitals/clinics: 17
+Floresti,Cluj - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 56.6 seconds
+
+Sfantu-Gheorghe,Covasna - Number of hospitals/clinics: 19
+Sfantu-Gheorghe,Covasna - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 26.5 seconds
+
+Error processing Roman,Neamt: No data elements in server response. Check log and query location/tags.
+
+Error processing Voluntari,Bucuresti: Found no graph nodes within the requested polygon
+
+Turda,Cluj - Number of hospitals/clinics: 18
+Turda,Cluj - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 17.1 seconds
+
+Miercurea-Ciuc,Harghita - Number of hospitals/clinics: 33
+Miercurea-Ciuc,Harghita - Average shortest travel time from 200 streets to the closest hospital: 9 minutes 39.5 seconds
+
+Slobozia,Ialomita - Number of hospitals/clinics: 7
+Slobozia,Ialomita - Average shortest travel time from 200 streets to the closest hospital: 8 minutes 0.2 seconds
+
+Alexandria,Teleorman - Number of hospitals/clinics: 13
+Alexandria,Teleorman - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 30.3 seconds
+
+Bragadiru,Ilfov - Number of hospitals/clinics: 5
+Bragadiru,Ilfov - Average shortest travel time from 200 streets to the closest hospital: 15 minutes 40.4 seconds
+
+Error processing Media,Sibiu: Nominatim could not geocode query 'Media,Sibiu' to a geometry of type (Multi)Polygon
+
+Lugoj,Timis - Number of hospitals/clinics: 11
+Lugoj,Timis - Average shortest travel time from 200 streets to the closest hospital: 9 minutes 53.1 seconds
+
+Error processing Medgidia,Constanta: No data elements in server response. Check log and query location/tags.
+
+Navodari,Constanta - Number of hospitals/clinics: 6
+Navodari,Constanta - Average shortest travel time from 200 streets to the closest hospital: 19 minutes 7.0 seconds
+
+Onesti,Bacau - Number of hospitals/clinics: 19
+Onesti,Bacau - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 10.2 seconds
+
+Pantelimon,Ilfov - Number of hospitals/clinics: 13
+Pantelimon,Ilfov - Average shortest travel time from 200 streets to the closest hospital: 8 minutes 57.6 seconds
+
+Tecuci,Galati - Number of hospitals/clinics: 18
+Tecuci,Galati - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 59.3 seconds
+
+Sighetu Marmatiei,Maramures - Number of hospitals/clinics: 18
+Sighetu Marmatiei,Maramures - Average shortest travel time from 200 streets to the closest hospital: 9 minutes 51.5 seconds
+
+Mangalia,Constanta - Number of hospitals/clinics: 21
+Mangalia,Constanta - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 23.9 seconds
+
+Dej,Cluj - Number of hospitals/clinics: 4
+Dej,Cluj - Average shortest travel time from 200 streets to the closest hospital: 10 minutes 44.0 seconds
+
+Odorheiu Secuiesc,Harghita - Number of hospitals/clinics: 13
+Odorheiu Secuiesc,Harghita - Average shortest travel time from 200 streets to the closest hospital: 9 minutes 2.1 seconds
+
+Petrosani,Hunedoara - Number of hospitals/clinics: 20
+Petrosani,Hunedoara - Average shortest travel time from 200 streets to the closest hospital: 9 minutes 36.1 seconds
+
+Sacele,Brasov - Number of hospitals/clinics: 9
+Sacele,Brasov - Average shortest travel time from 200 streets to the closest hospital: 19 minutes 22.0 seconds
+
+Pascani,Iasi - Number of hospitals/clinics: 9
+Pascani,Iasi - Average shortest travel time from 200 streets to the closest hospital: 13 minutes 5.0 seconds
+
+Ramnicu Sarat,Buzau - Number of hospitals/clinics: 10
+Ramnicu Sarat,Buzau - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 22.0 seconds
+
+Reghin,Mures - Number of hospitals/clinics: 23
+Reghin,Mures - Average shortest travel time from 200 streets to the closest hospital: 7 minutes 33.8 seconds
+
+Mioveni,Arges - Number of hospitals/clinics: 11
+Mioveni,Arges - Average shortest travel time from 200 streets to the closest hospital: 11 minutes 26.5 seconds
+
+Campina,Prahova - Number of hospitals/clinics: 18
+Campina,Prahova - Average shortest travel time from 200 streets to the closest hospital: 6 minutes 59.9 seconds
+
+Borsa,Maramures - Number of hospitals/clinics: 9
+Borsa,Maramures - Average shortest travel time from 200 streets to the closest hospital: 15 minutes 22.5 seconds
+
+Campulung,Arges - Number of hospitals/clinics: 17
+Campulung,Arges - Average shortest travel time from 200 streets to the closest hospital: 8 minutes 0.4 seconds
+
+Fetesti,Ialomita - Number of hospitals/clinics: 7
+Fetesti,Ialomita - Average shortest travel time from 200 streets to the closest hospital: 10 minutes 51.6 seconds
+
+Caracal,Olt - Number of hospitals/clinics: 14
+Caracal,Olt - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 22.8 seconds
+
+Sebes,Alba - Number of hospitals/clinics: 18
+Sebes,Alba - Average shortest travel time from 200 streets to the closest hospital: 8 minutes 42.6 seconds
+
+Fagaras,Brasov - Number of hospitals/clinics: 13
+Fagaras,Brasov - Average shortest travel time from 200 streets to the closest hospital: 5 minutes 0.9 seconds
