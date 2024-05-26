@@ -5,6 +5,7 @@ import geopandas as gpd
 import requests
 from folium.plugins import MarkerCluster
 import streamlit as st
+import streamlit.components.v1 as components
 import csv
 from streamlit_folium import st_folium
 
@@ -13,64 +14,84 @@ ox.__version__
 
 # Function to retrieve and plot hospitals and clinics with Folium
 def plot_hospitals_and_clinics(place):
-    # Download/model a street network for the specified place
-    G = ox.graph_from_place(place, network_type="drive", retain_all=True)
-    
-    # Get center coordinates for the map
-    center_lat, center_lon = ox.geocode(place)
-    
-    # Create a Folium map centered around the place
-    m = folium.Map(location=[center_lat, center_lon], zoom_start=12)
-
-    # Create a MarkerCluster object
-    marker_cluster = MarkerCluster().add_to(m)
-
-    
-    # Plot street network on Folium map
-    ox.plot_graph_folium(G, graph_map=m, edge_color="blue", edge_width=0.3, bgcolor="#333333")
-    
-    # Retrieve hospital and clinic data for the place
-    tags = {"amenity": ["hospital", "clinic"]}
-    gdf = ox.features_from_place(place, tags)
-    
-    # Base URL for the geocoding API
-    BASE_URL = 'https://nominatim.openstreetmap.org/search?format=json'
-
-    # Iterate through each hospital or clinic and add markers to the map
-    for idx, row in gdf.iterrows():
-        # Construct the query parameters for the API request
-        params = {
-            "q": row["name"],
-            "format": "json",
-            "limit": 1
-        }
+    try:
+        # Download/model a street network for the specified place
+        G = ox.graph_from_place(place, network_type="drive", retain_all=True)
         
-        # Send a GET request to the geocoding API
-        response = requests.get(BASE_URL, params=params)
+        # Get center coordinates for the map
+        center_lat, center_lon = ox.geocode(place)
         
-        # Check if the request was successful (status code 200)
-        if response.status_code == 200:
-            # Parse the JSON response
-            data = response.json()
+        # Create a Folium map centered around the place
+        m = folium.Map(location=[center_lat, center_lon], zoom_start=12)
+        
+        # Create a MarkerCluster object
+        marker_cluster = MarkerCluster().add_to(m)
+
+       
+        # Plot street network on Folium map
+        ox.plot_graph_folium(G, graph_map=m, edge_color="blue", edge_width=0.3, bgcolor="#333333")
+        
+        # Retrieve hospital and clinic data for the place
+        tags = {"amenity": ["hospital", "clinic"]}
+        gdf = ox.features_from_place(place, tags)
+        
+        # Base URL for the geocoding API
+        BASE_URL = 'https://nominatim.openstreetmap.org/search?format=json'
+
+        # Iterate through each hospital or clinic and add markers to the map
+        for idx, row in gdf.iterrows():
+            # Construct the query parameters for the API request
+            params = {
+                "q": row["name"],
+                "format": "json",
+                "limit": 1
+            }
             
-            # Check if any results were returned
-            if data:
-                # Extract latitude and longitude from the first result
-                latitude = float(data[0]["lat"])
-                longitude = float(data[0]["lon"])
+            # Send a GET request to the geocoding API
+            response = requests.get(BASE_URL, params=params)
+            
+            # Check if the request was successful (status code 200)
+            if response.status_code == 200:
+                # Parse the JSON response
+                data = response.json()
                 
-                # Add marker to the marker cluster
-                folium.Marker([latitude, longitude]).add_to(marker_cluster)
+                # Check if any results were returned
+                if data:
+                    # Extract latitude and longitude from the first result
+                    latitude = float(data[0]["lat"])
+                    longitude = float(data[0]["lon"])
+                    
+                    # Add marker to the marker cluster
+                    folium.Marker([latitude, longitude]).add_to(marker_cluster)
+        
+        # Display the Folium map
+        m.save('city_map_with_hospitals_and_clinics.html')
+
+        HtmlFile = open("city_map_with_hospitals_and_clinics.html", 'r', encoding='utf-8')
+        source_code = HtmlFile.read() 
+        print(source_code)
+        components.html(source_code, height=725)
+
+        print("Map with hospitals and clinics saved as city_map_with_hospitals_and_clinics.html")
+    except Exception as e:
+        print(f"Error processing")
+
+
+def grade(bed_to_pop_ratio,average_time,average_distance):
+    # max 5 points for bed to pop ratio
+    # max 3 points for average time
+    # max 2 points for average distance
+    grade_beds = (6 * bed_to_pop_ratio)/20.0
+    grade_beds = grade_beds # to avoid havin grade>5
+
+    grade_time = (3 * 330.0) / average_distance
+    grade_time = grade_time 
+
+    grade_distance = (1 * 1750.0) / average_distance
+    grade_distance = grade_distance 
+
+    return (grade_beds + grade_time + grade_distance)
     
-    # Display the Folium map
-    m.save('city_map_with_hospitals_and_clinics.html')
-
-    # call to render Folium map in Streamlit
-    st_data = st_folium(m, width=725)
-
-    print("Map with hospitals and clinics saved as city_map_with_hospitals_and_clinics.html")
-
-
 
 # Initialize lists to store data
 cities = []
@@ -103,14 +124,17 @@ if city_input != "":
         index = cities.index(city_input)
         
         # Plot hospitals and clinics for the specified city
-        plot_hospitals_and_clinics(city_input)
+        #plot_hospitals_and_clinics(city_input)
         
         # Display the city information in text areas
         st.text_area("City Name", cities[index])
         st.text_area("Population", population[index])
-        st.text_area("Average Distance", average_distance[index])
-        st.text_area("Average Time", average_time[index])
+        st.text_area("Average Distance", f"{float(average_distance[index]):.2f}")
+        st.text_area("Average Time", f"{float(average_time[index]):.2f}")
         st.text_area("Number of Beds", number_of_beds[index])
-        st.text_area("Bed to Population Ratio", bed_to_pop_ratio[index])
+        st.text_area("Bed/1000 People Ratio", f"{float(bed_to_pop_ratio[index]):.2f}")
+        grade = grade(float(bed_to_pop_ratio[index]), average_time=float(average_time[index]), average_distance=float(average_distance[index]))
+        st.text_area("Grade",f"{grade:.2f}")
+
     else:
         print("City not found in the dataset.")
